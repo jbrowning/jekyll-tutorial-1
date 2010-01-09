@@ -1,0 +1,9 @@
+---
+layout: default
+title: About me
+---
+h2. About me
+
+I like cats and cats hate me.
+
+"Go home!":/
